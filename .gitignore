@@ -11,6 +11,11 @@
 # production
 /build
 
+src/App.test.tsx
+src/reportWebVitals.ts
+src/setupTests.ts
+src/react-app-env.d.ts
+
 # misc
 .DS_Store
 .env.local
